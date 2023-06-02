@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huzaifa-41
 - 👀 I’m interested in Graphic designing and web development.
-- 🌱 I’m currently learning Chemical engineering at PIEAS pakistan
+- 🌱 I’m currently studying Chemical engineering at PIEAS pakistan
 - 📫 Email: huzaifaahmad441@gmail.com 
 
 <!---
