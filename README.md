@@ -1,4 +1,4 @@
-- Hi, I’m @Huzaifa-41
+- Hi, I’m Huzaifa Ahmad
 - I’m interested in web development and Graphic designing.
 - I’m currently studying Chemical engineering at PIEAS pakistan
 - Email: huzaifa@linkyne.com 
